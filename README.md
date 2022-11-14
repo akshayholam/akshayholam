@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshayholam
-- 👀 I’m interested in girls of baramati
+- 👀 I’m interested in software devlopment 
 - 🌱 I’m currently learning in pucsd 
 - 📫 How to reach me akshayholam3738@gmail.com
 
