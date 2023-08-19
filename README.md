@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently Studying in **Savitribai Phule Pune University**
 
-- 🌱 I’m currently learning **Golang , Swift , Anguler js**
+- 🌱 I’m currently learning 
 
-- 💬 Ask me about **Problem Solving**
+- 💬 Ask me about 
 
 - 📫 How to reach me **akshayholam3738@gmail.com**
 
-- ⚡ Fun fact **I am From Krajat**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
